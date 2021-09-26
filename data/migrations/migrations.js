@@ -48,3 +48,4 @@ return knex.schema
     .dropTableIfExists('tasks')
     .dropTableIfExists('resources')
     .dropTableIfExists('projects')};
+    
